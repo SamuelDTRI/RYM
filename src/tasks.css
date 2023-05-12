@@ -1,0 +1,19 @@
+.card{
+    background-color: #000000;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.bg-red{
+    background: red;
+}
+
+.bg-green{
+    background: green;
+} 
+
+.pagina{
+    background-image: './Users/User/OneDrive/Escritorio';
+}
+
+
